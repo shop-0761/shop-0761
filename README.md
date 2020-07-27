@@ -1,16 +1,27 @@
-### Hi there 👋
+### Who?
+- Client xR Programmer
+- [Twitter](https://twitter.com/shop_0761)
 
-<!--
-**shop-0761/shop-0761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Unity (C#, ShaderLab)
+- Unreal Engine 4
+- xR Dev (Oculus, HTC Vive, and so on)
 
-Here are some ideas to get you started:
+#### Studying
+ - Python
+ - typescript (for Google Apps Script)
+ 
+### Interest
+- Houdini
+- Blender
+- Video Production  
+  → [Sample Movie 01](https://twitter.com/shop_0761/status/1282152886118408192?s=20)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Works
+
+- [YOYOGIMORI Dev](https://yoyogi-mori.booth.pm/)
+- [FilmToneMapInverse for UE4 (Article(ja))](https://shop-0761.hatenablog.com/entry/2019/10/14/221751)
+- [FilmToneMapInverse for UE4 (Repo)](https://github.com/shop-0761/tToon)
+- [UnityChan LIVE Convert to UE (Movie)](https://www.youtube.com/watch?v=Bt-d3hQUurM)
+- [UnityChan LIVE Convert to UE (Repo)](https://github.com/shop-0761/UnitychanLIVE-UE4Ver-)
+  
