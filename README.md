@@ -1,6 +1,7 @@
 ## Who?
 - Client xR Programmer
 - [Twitter](https://twitter.com/shop_0761)
+- [Tech Blog](https://shop-0761.hatenablog.com/)
 
 ## Skills
 - Unity (C#, ShaderLab)
@@ -8,12 +9,9 @@
 - xR Dev (Oculus, HTC Vive, and so on)
 - iOS (Swift)
 - Android (Kotlin)
+- typescript (for Google Apps Script)
 
 ### Studying
- - Python
- - typescript (for Google Apps Script)
- 
-## Interest
 - Houdini
 - Blender
 - Video Production  
