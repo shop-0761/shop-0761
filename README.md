@@ -33,6 +33,8 @@
 CPU: Ryzen 3900X  
 GPU: RTX 2080  
 RAM: 64GB  
+Monitor: 43UN700T / 43UD79T
+
 
 ### Desk
 ![image](https://user-images.githubusercontent.com/25533884/114272896-e8489a00-9a52-11eb-96cd-f173f7165f58.png)
