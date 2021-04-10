@@ -6,6 +6,8 @@
 - Unity (C#, ShaderLab)
 - Unreal Engine 4
 - xR Dev (Oculus, HTC Vive, and so on)
+- iOS (Swift)
+- Android (Kotlin)
 
 ### Studying
  - Python
@@ -63,10 +65,12 @@ Mouse
 #### HMD
 - Oculus Quest 1 / 2
 - Oculus Go
+- Oculus Rift
+- Vive Pre
 
 #### Others
 Camera
-- BMPCC 4K
+- Blackmagic Pocket Cinema Camera 4K
 - M.ZUIKO DIGITAL ED 12-100mm F4.0
 - Crane3
 
