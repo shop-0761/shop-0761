@@ -5,7 +5,7 @@
 
 ## Skills
 - Unity (C#, ShaderLab)
-- Unreal Engine 4
+- Unreal Engine
 - xR Dev (Oculus, HTC Vive, and so on)
 - iOS (Swift)
 - Android (Kotlin)
