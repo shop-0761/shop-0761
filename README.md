@@ -45,7 +45,6 @@ I/F
 
 headphone
 - HPH-MT8
-- MDR-CD900ST
 
 Mic
 - NT1-A
@@ -54,18 +53,14 @@ Mic
 #### Interfaces
 Keyboard
 - MD770
-- FILCO Majestouch2
 - G13r
 
 Mouse
 - MX ERGO
 - G-PPD-003WL-BK
-- G640r
 
 #### HMD
-- Oculus Quest 1 / 2
-- Oculus Go
-- Oculus Rift
+- Oculus Quest 2
 - Vive Pre
 
 #### Others
